@@ -1,0 +1,1 @@
+Copy the contents of these zip files into your documents/Arduino/libraries/ folder, then restart Arduino IDE.
